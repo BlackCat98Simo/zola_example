@@ -1,7 +1,7 @@
 +++
 
 title = exercice 1
-![logo](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
+
 
 +++
 
@@ -10,4 +10,4 @@ title = exercice 1
 |---------------|---------------|---------------|
 |Green		|Black		|Pink		|
 -------------------------------------------------
-
+![logo](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
