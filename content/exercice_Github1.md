@@ -16,6 +16,12 @@ title = exercice 1
 -------------------------------------------------
 |boh1		|boh2		|boh3		|
 |---------------|---------------|---------------|
-|Green		|Black		|Pink		|
+|Green[^1]	|Black		|Pink		|
 -------------------------------------------------
+
 ![logo](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
+
+[_Biodiversity_ **PMC**](https://biodiversitypmc.sibils.org/)
+
+
+[^1]: référence bibliographique green
