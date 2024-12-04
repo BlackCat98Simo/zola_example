@@ -23,8 +23,9 @@ none[^1]
 not so great[^2]
 
 ## Reasons to play
-*You have nothing to do with your life
-*You created this game
+* List of reasons
+	* You have nothing to do with your life
+	* You created this game
 
 
 [^1]: or none understandable
