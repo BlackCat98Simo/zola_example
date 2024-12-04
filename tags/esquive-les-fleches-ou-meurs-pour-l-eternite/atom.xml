@@ -8,6 +8,32 @@
     <updated>2022-07-22T00:00:00+00:00</updated>
     <id>https://BlackCat98Simo.github.io/zola_example/tags/esquive-les-fleches-ou-meurs-pour-l-eternite/atom.xml</id>
     <entry xml:lang="en">
+        <title>nouveau fichier</title>
+        <published>2022-07-22T00:00:00+00:00</published>
+        <updated>2022-07-22T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://BlackCat98Simo.github.io/zola_example/exercice-github1/"/>
+        <id>https://BlackCat98Simo.github.io/zola_example/exercice-github1/</id>
+        
+        <content type="html" xml:base="https://BlackCat98Simo.github.io/zola_example/exercice-github1/">&lt;p&gt;title = exercice 1&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;boh1&lt;&#x2F;th&gt;&lt;th&gt;boh2&lt;&#x2F;th&gt;&lt;th&gt;boh3&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Green&lt;&#x2F;td&gt;&lt;td&gt;Black&lt;&#x2F;td&gt;&lt;td&gt;Pink&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>Mortelle Randonnée</title>
         <published>2022-07-22T00:00:00+00:00</published>
         <updated>2022-07-22T00:00:00+00:00</updated>
